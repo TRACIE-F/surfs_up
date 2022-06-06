@@ -10,8 +10,8 @@ This analysis is to help a client determine the viability of a surf and ice crea
   * Point 2
   * Point 3
   * Point 4
-![Image 1](url)
-![Image 1](url)
+![June Temp](https://github.com/TRACIE-F/surfs_up/blob/main/Resources/June%20Temps.png)
+![June Precip](https://github.com/TRACIE-F/surfs_up/blob/main/Resources/June%20Precip.png)
 
 Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
 ## Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
